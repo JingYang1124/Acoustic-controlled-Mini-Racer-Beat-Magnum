@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MiniRacer_V2.PcbDoc   2020/3/27  8:49:30
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MiniRacer_V2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T2      10mil (0.25mm)                                            Round             82        PTH        0.00inch (0.00mm)
+T3      12mil (0.3mm)                                             Round             1         PTH        0.00inch (0.00mm)
+T4      13mil (0.33mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T5      32mil (0.8mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      35mil (0.9mm)                                             Round             23        PTH        0.00inch (0.00mm)
+T7      47mil (1.2mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T8      126mil (3.2mm)                                            Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              136
+
+Total Processing Time (hh:mm:ss) : 00:00:00

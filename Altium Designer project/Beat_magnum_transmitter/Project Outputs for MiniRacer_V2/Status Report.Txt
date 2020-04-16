@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MiniRacer_V2.PrjPCB]
+   Generated File[MiniRacer_V2.TXT]
+   Generated File[MiniRacer_V2.LDP]
+   Generated File[MiniRacer_V2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:49:30 On 2020/3/27
