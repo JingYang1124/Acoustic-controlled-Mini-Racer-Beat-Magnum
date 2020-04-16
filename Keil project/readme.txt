@@ -1,2 +1,3 @@
+Keil版本： Keil 5
 Beat_magnum_transmitter 为语音遥控器上的程序
 Beat_magnum_receiver 为车子上的程序
