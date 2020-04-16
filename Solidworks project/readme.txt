@@ -11,6 +11,7 @@ back_lock.STL          （1个）
 back_wheel.STL       （2个）
 Racer_Lock.STL        （1个）
 board_support.STL  （1个）
+frontwheellock.STL  （2个）
 
 遥控器打印时，可以直接打印：
 Transmitter_base.STL    （1个）
