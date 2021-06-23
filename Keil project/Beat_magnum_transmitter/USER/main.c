@@ -29,7 +29,7 @@ extern void LD3320_Init(void);
 	while (1)
   {
 		LD3320_main();	
-    KEY_Scan();		
+		KEY_Scan();		
 		Send_State = NRF24L01_TxPacket(tmp_buf);		
 	}
 	 
