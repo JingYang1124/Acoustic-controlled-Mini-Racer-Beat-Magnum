@@ -1,4 +1,6 @@
 # 声控的迷你赛车--“跃动冲锋”
+![Based on: STM32 & LD3320 (shields.io)](https://img.shields.io/badge/Based%20on-STM32%20%26%20LD3320-blue)  ![version: 1.0 (shields.io)](https://img.shields.io/badge/version-1.0-brightgreen)
+
 本项目是一款声控的迷你赛车--“跃动冲锋”，可通过语音指令控制车子的运动，还原了动画片“四驱兄弟”中的场景。
 
 项目演示视频：
